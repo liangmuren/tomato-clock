@@ -1,0 +1,14 @@
+{
+    "description": "Just a simple tomato clock.",
+    "manifest_version": 1,
+    "name": "tomato-clock",
+    "version": "1.0",
+    "browser_action": {
+        "browser_style": true,
+        "default_popup": "tomato/main.html",
+        "default_icon": {
+            "16": "icons/page-16.png",
+            "32": "icons/page-32.png"
+        }
+    }
+}
